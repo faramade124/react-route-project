@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Header from "./components/Header"
-import "./components/Footer\" from file 'c:/Users/Raheem/react-route1-project/src/App.jsx'"
+import Footer from "./components/footer"
 import LandingPage from "/Users/Raheem/react-route1-project/src/pages/LandingPage"
 import Gallery from "/Users/Raheem/react-route1-project/src/pages/Gallery"
 import Projects from "/Users/Raheem/react-route1-project/src/pages/Projects"
