@@ -1,18 +1,18 @@
 "use client"
 import React from "react"
 
-import { useState } from "react"
+// import { useState } from "react"
 import "./LandingPage.css"
 
 const LandingPage = () => {
-  const [currentProject , setCurrentProject] = useState(0)
+  // const [currentProject , setCurrentProject] = useState(0)
 
-  const projects = [
-    {
-      title: "PROJECT Lorum",
-      image: "/placeholder.svg?height=400&width=600",
-    },
-  ]
+  // const projects = [
+  //   {
+  //     title: "PROJECT Lorum",
+  //     image: "/placeholder.svg?height=400&width=600",
+  //   },
+  // ]
 
   return (
     <div className="landing-page">
@@ -101,7 +101,7 @@ const LandingPage = () => {
               </div>
               
             </div>
-            <div className="project-card img1">
+            <div className="project-card">
               <img src="/src/assets/image/image 15.jpg " alt="Project 2" />
             </div>
             <div className="project-card">
