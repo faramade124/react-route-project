@@ -47,9 +47,9 @@ const LandingPage = () => {
         <div className="container">
           <div className="about-content">
             <div className="about-images">
-              <img src="/src/assets/image/Rectangle 8 (1).png" alt="Architecture detail" className="about-img-1" />
-              <img src="/src/assets/image/Rectangle 9.png" alt="Building facade" className="about-img-2" />
-              <img src="/src/assets/image/Rectangle 10.png" alt="Geometric pattern" className="about-img-3" />
+              <img src="/images/Rectangle 8 (1).png" alt="Architecture detail" className="about-img-1" />
+              <img src="/images/Rectangle 9.png" alt="Building facade" className="about-img-2" />
+              <img src="/images/Rectangle 10.png" alt="Geometric pattern" className="about-img-3" />
             </div>
             <div className="about-text">
               <h2>About</h2>
