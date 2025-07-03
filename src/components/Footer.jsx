@@ -36,9 +36,9 @@ const Footer = () => {
           <div className="footer-section">
             <h3>Contacts</h3>
             <div className="contact-info">
-              <p><img src="/src/assets/image/Vector (1).png" alt="" srcset="" /> 1234 Sample Street</p>
+              <p><img src="/images/Vector (1).png" alt="" srcset="" /> 1234 Sample Street</p>
               <p>Austin Texas 78704</p>
-              <p><img src="/src/assets/image/Group.png" alt="" srcset="" /> 512.333.2222</p>
+              <p><img src="/images/Group.png" alt="" srcset="" /> 512.333.2222</p>
               <p>✉️ sampleemail@gmail.com</p>
             </div>
           </div>
@@ -47,16 +47,16 @@ const Footer = () => {
             <h3>Social Media</h3>
             <div className="social-links">
               <a href="#" aria-label="Facebook">
-                <img src="/src/assets/image/Shape (1).png" alt="" srcset="" />
+                <img src="/images/Shape (1).png" alt="" srcset="" />
               </a>
               <a href="#" aria-label="Twitter">
-                <img src="/src/assets/image/Shape (2).png" alt="" srcset="" />
+                <img src="/images/Shape (2).png" alt="" srcset="" />
               </a>
               <a href="#" aria-label="LinkedIn">
-                <img src="/src/assets/image/Shape (3).png" alt="" srcset="" />
+                <img src="/images/Shape (3).png" alt="" srcset="" />
               </a>
               <a href="#" aria-label="Pinterest">
-                <img src="/src/assets/image/Shape (4).png" alt="" srcset="" />
+                <img src="/images/Shape (4).png" alt="" srcset="" />
               </a>
             </div>
           </div>
