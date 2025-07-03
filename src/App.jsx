@@ -1,10 +1,10 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import Header from "./components/Header"
-import Footer from "/Users/Raheem/react-route1-project/src/components/Footer"
-import LandingPage from "/Users/Raheem/react-route1-project/src/pages/LandingPage"
-import Gallery from "/Users/Raheem/react-route1-project/src/pages/Gallery"
-import Projects from "/Users/Raheem/react-route1-project/src/pages/Projects"
-import "./App.css"
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import LandingPage from "./pages/LandingPage";
+import Gallery from "./pages/Gallery";
+import Projects from "./pages/Projects";
+import "./App.css";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
         <Footer />
       </div>
     </Router>
-  )
+  );
 }
 
-export default App
+export default App;
