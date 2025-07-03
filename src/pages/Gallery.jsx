@@ -8,16 +8,16 @@ const Gallery = () => {
   const totalPages = 5
 
   const galleryImages = [
-    { id: 1, src: "/src/assets/image/Rectangle 22.png", alt: "Architecture 1" },
-    { id: 2, src: "/src/assets/image/Rectangle 23.png", alt: "Lighthouse at sunset" },
-    { id: 3, src: "/src/assets/image/Rectangle 24.png", alt: "Modern structure" },
-    { id: 4, src: "/src/assets/image/Rectangle 25.png", alt: "Red and white lighthouse" },
-    { id: 5, src: "/src/assets/image/Rectangle 26.png", alt: "Historic building" },
-    { id: 6, src: "/src/assets/image/Rectangle 27 (1).png", alt: "Classical architecture" },
-    { id: 7, src: "/src/assets/image/Rectangle 28.png", alt: "City street" },
-    { id: 8, src: "/src/assets/image/Rectangle 29.png", alt: "Modern building" },
-    { id: 9, src: "/src/assets/image/Rectangle 30.png", alt: "Waterfront architecture" },
-    { id: 10, src: "/src/assets/image/Rectangle 31.png", alt: "Contemporary design" },
+    { id: 1, src: "/images/Rectangle 22.png", alt: "Architecture 1" },
+    { id: 2, src: "/images/Rectangle 23.png", alt: "Lighthouse at sunset" },
+    { id: 3, src: "/images/Rectangle 24.png", alt: "Modern structure" },
+    { id: 4, src: "/images/Rectangle 25.png", alt: "Red and white lighthouse" },
+    { id: 5, src: "/images/Rectangle 26.png", alt: "Historic building" },
+    { id: 6, src: "/images/Rectangle 27 (1).png", alt: "Classical architecture" },
+    { id: 7, src: "/images/Rectangle 28.png", alt: "City street" },
+    { id: 8, src: "/images/Rectangle 29.png", alt: "Modern building" },
+    { id: 9, src: "/images/Rectangle 30.png", alt: "Waterfront architecture" },
+    { id: 10, src: "/images/Rectangle 31.png", alt: "Contemporary design" },
   ]
 
   return (

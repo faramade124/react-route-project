@@ -36,7 +36,7 @@ const LandingPage = () => {
               <button className="view-project-btn">VIEW PROJECT →</button>
             </div>
             <div className="hero-image">
-              <img src="/src/assets/image/Rectangle 6.png" alt="Modern building architecture" />
+              <img src="/images/Rectangle 6.png" alt="Modern building architecture" />
             </div>
           </div>
         </div>

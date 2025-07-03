@@ -14,21 +14,21 @@ const Projects = () => {
       title: "Sample Project",
       description:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      image: "/src/assets/image/image 30.png",
+      image: "/images/image 30.png",
     },
     {
       id: 2,
       title: "Sample Project 2",
       description:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      image: "/src/assets/image/image 33.png",
+      image: "/images/image 33.png",
     },
     {
       id: 3,
       title: "Sample Project 3",
       description:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      image: "/src/assets/image/image 32.png",
+      image: "/images/image 32.png",
     },
   ]
 
