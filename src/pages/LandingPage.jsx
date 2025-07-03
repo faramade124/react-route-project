@@ -94,7 +94,7 @@ const LandingPage = () => {
           <h2>Our Projects</h2>
           <div className="projects-grid">
             <div className="project-card large">
-              <img src="/src/assets/image/Rectangle 17.png" alt="Sample Project" />
+              <img src="/images/Rectangle 17.png" alt="Sample Project" />
               <div className="project-overlay">
                 <h3>Sample Project</h3>
                 <p>VIEW MORE →</p>
@@ -102,16 +102,16 @@ const LandingPage = () => {
               
             </div>
             <div className="project-card">
-              <img src="/src/assets/image/image 15.jpg " alt="Project 2" />
+              <img src="/images/image 15.jpg " alt="Project 2" />
             </div>
             <div className="project-card">
-              <img src="/src/assets/image/image 16.png" alt="Project 3" />
+              <img src="/images/image 16.png" alt="Project 3" />
             </div>
             <div className="project-card">
-              <img src="/src/assets/image/image 17.png" alt="Project 4" />
+              <img src="/images/image 17.png" alt="Project 4" />
             </div>
             <div className="project-card">
-              <img src="/src/assets/image/image 18.png" alt="Project 5" />
+              <img src="/images/image 18.png" alt="Project 5" />
             </div>
           </div>
           <button className="all-projects-btn">ALL PROJECTS →</button>
@@ -136,7 +136,7 @@ const LandingPage = () => {
               </form>
             </div>
             <div className="contact-image">
-              <img src="/src/assets/image/image 12.png" alt="Person on phone" />
+              <img src="/images/image 12.png" alt="Person on phone" />
             </div>
           </div>
         </div>
