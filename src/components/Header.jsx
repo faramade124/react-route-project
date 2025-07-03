@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container">
         <div className="logo">
           <Link to="/">
-            <img src="/src/assets/image/Group 8.png" alt="" srcset="" />
+            <img src="/images/Group 8.png" alt="" srcset="" />
             <span className="logo-subtext">DIGITAL PROJECT</span>
           </Link>
         </div>
